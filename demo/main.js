@@ -825,9 +825,9 @@ function checkBuffer () {
   let ctx = canvas.getContext('2d');
   let r = v.buffered;
   let bufferingDuration;
-  ctx.fillStyle = 'black';
+  ctx.fillStyle = 'grey';
   ctx.fillRect(0, 0, canvas.width, canvas.height);
-  ctx.fillStyle = 'gray';
+  ctx.fillStyle = 'purple';
   if (r) {
     if (!canvas.width || canvas.width !== v.clientWidth) {
       canvas.width = v.clientWidth;

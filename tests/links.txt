@@ -1,0 +1,10 @@
+https://d3i3iri2nd1wis.cloudfront.net/HLS/001/AU-SFB-SME-Final.m3u8
+https://d3i3iri2nd1wis.cloudfront.net/HLS/002/Files_1586169836.m3u8
+https://d3i3iri2nd1wis.cloudfront.net/HLS/003/Files_1586526450.m3u8
+https://d3i3iri2nd1wis.cloudfront.net/HLS/004/Files_1586526751.m3u8
+https://d3i3iri2nd1wis.cloudfront.net/HLS/005/Files_1586529706.m3u8
+
+
+https://d3i3iri2nd1wis.cloudfront.net/DASH/001.mpd
+https://d3i3iri2nd1wis.cloudfront.net/DASH/002/Files_1586169836.mpd
+https://d3i3iri2nd1wis.cloudfront.net/DASH/003/Files_1586526450.mpd
